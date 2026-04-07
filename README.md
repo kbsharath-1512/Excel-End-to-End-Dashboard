@@ -43,7 +43,7 @@ It is fully interactive, allowing users to filter and explore data dynamically.
 
 ## 📷 Dashboard Preview
 
-<img width="700" height="400" alt="Sales Dashboard Final" src="https://github.com/user-attachments/assets/96435753-80cf-4829-b866-eb994109db40" />
+<img width="815" height="403" alt="Sales Dashboard Final" src="https://github.com/user-attachments/assets/9056963b-e406-4cb6-85b5-a625867602da" />
 
 
 ---
