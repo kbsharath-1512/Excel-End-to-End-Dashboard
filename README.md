@@ -19,7 +19,7 @@ This project demonstrates how raw data can be transformed into meaningful insigh
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Dashboard](https://img.shields.io/badge/Project-Interactive%20Dashboard-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made By](https://img.shields.io/badge/Made%20By-Sharath-orange)
+![Made By](https://img.shields.io/badge/Made%20By-K%20B%20Sharath%20Kumara-orange)
 
 ---
 
