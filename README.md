@@ -1,31 +1,47 @@
 # 📊 Super Store Sales Dashboard (Excel)
 
-## 🚀 Project Overview
-This dashboard provides a comprehensive view of sales performance across different regions, categories, and time periods.  
+<p align="center">
+  <img width="815" height="403" alt="Sales Dashboard Final" src="https://github.com/user-attachments/assets/693e8040-f4fd-409b-a0ae-2a821c8d3639" />
+</p>
 
-It is fully interactive, allowing users to filter and explore data dynamically.
+---
+
+## 🚀 Project Overview
+
+An interactive **Sales Dashboard built in Microsoft Excel** to analyze and visualize Super Store data.  
+
+This project demonstrates how raw data can be transformed into meaningful insights using powerful Excel features such as Pivot Tables, Charts, and Slicers.
+
+---
+
+## 🏆 Badges
+
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Dashboard](https://img.shields.io/badge/Project-Interactive%20Dashboard-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Made By](https://img.shields.io/badge/Made%20By-Sharath-orange)
 
 ---
 
 ## ✨ Key Features
 
-- 📌 **Interactive Filters (Slicers)**
-  - Region-wise filtering (Central, East, South, West)
-  - Year-wise filtering (2014–2018)
+### 📌 Interactive Filters
+- Region-wise filtering (Central, East, South, West)
+- Year-wise filtering (2014–2018)
 
-- 📊 **KPI Metrics**
-  - Total Sales
-  - Sales Average
-  - Transactions
-  - Total Quantity Ordered
+### 📊 KPI Metrics
+- Total Sales
+- Sales Average
+- Transactions
+- Total Quantity Ordered
 
-- 📈 **Visual Insights**
-  - Ship Mode Sales Distribution (%)
-  - Region-wise Transactions (Donut Chart)
-  - Monthly Quantity Ordered (Trend Analysis)
-  - Top 5 Cities Sales-wise
-  - Category-wise Transactions
-  - Consumer Type Quantity Ordered
+### 📈 Visual Insights
+- Ship Mode Sales Distribution (%)
+- Region-wise Transactions (Donut Chart)
+- Monthly Quantity Ordered (Trend Analysis)
+- Top 5 Cities Sales-wise
+- Category-wise Transactions
+- Consumer Type Quantity Ordered
 
 ---
 
@@ -34,50 +50,39 @@ It is fully interactive, allowing users to filter and explore data dynamically.
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
-- Slicers for interactivity  
-- Data Cleaning & Formatting  
+- Slicers  
+- Data Cleaning  
 - Conditional Formatting  
-- Dashboard Design Principles  
-
----
-
-## 📷 Dashboard Preview
-
-<img width="815" height="403" alt="Sales Dashboard Final" src="https://github.com/user-attachments/assets/9056963b-e406-4cb6-85b5-a625867602da" />
-
+- Dashboard Design  
 
 ---
 
 ## 📚 Learnings
 
-Through this project, I learned:
-
-- How to design interactive dashboards in Excel  
-- Creating meaningful data visualizations  
-- Using slicers for dynamic reporting  
-- Structuring dashboards for business insights  
+- Built interactive dashboards using Excel  
+- Improved data visualization skills  
+- Learned dynamic filtering using slicers  
+- Structured dashboards for business insights  
 
 ---
 
 ## 💡 Use Case
 
-This dashboard can be useful for:
-
 - Business Analysts  
 - Data Analysts (Beginners)  
-- Students learning Excel dashboards  
-- Quick sales performance tracking  
+- Students learning Excel  
+- Sales performance tracking  
 
 ---
 
 ## 🔮 Future Improvements
 
 - Add Profit Analysis  
-- Include Forecasting  
-- Automate data updates using Power Query  
+- Add Forecasting  
+- Automate data using Power Query  
 
 ---
 
-## 🙌 Feedback
+## 🙌 Connect With Me
 
-If you have suggestions or improvements, feel free to open an issue or contribute!
+If you like this project, give it a ⭐ and feel free to connect!
